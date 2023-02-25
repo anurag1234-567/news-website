@@ -1,5 +1,4 @@
-// import { apikey } from './apikey.js';
-var apikey = 517b047c496e4052835647d0d021d143
+import { apikey } from './apikey.js';
 var call = "https://newsapi.org/v2/top-headlines?country=in"
 var apicall
 
